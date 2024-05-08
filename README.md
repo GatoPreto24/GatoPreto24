@@ -1,7 +1,8 @@
-### Hi there 👋
-
-<!--
+### Hi there GATO PRETO👋
+### Estou estudando na Alura💜  
+### Estou me desenvolvendo na linguagem javaScript💜
 **GatoPreto24/GatoPreto24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](link)
 
 Here are some ideas to get you started:
 
